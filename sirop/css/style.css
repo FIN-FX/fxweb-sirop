@@ -1,0 +1,17 @@
+body {
+    padding-top: 70px;
+}
+.navbar.custom {
+    height: 83px;
+}
+.navbar.custom .breadcrumb {
+    background-color: #EEEEEE;
+}
+.poster {
+    float: left;
+}
+.description {
+    float: left;
+    margin-left: 30px;
+    width: 750px;
+}
